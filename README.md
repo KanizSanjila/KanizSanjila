@@ -13,6 +13,10 @@
 - 💬 Ask me about **Ask me about React, Next.js, JavaScript, and frontend development.**
 
 - 📫 How to reach me **kanizsm13@gmail.com**
+- 📍 Location: Digholia,khulna,Bangladesh
+- <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
