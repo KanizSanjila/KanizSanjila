@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://facebook.com/profile.php?id=100094195081509" target="_blank">
-  <img src="https://www.facebook.com/facebook/" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" />
 </a>
 
 </p>
