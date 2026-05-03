@@ -2,10 +2,6 @@
 
 ### Frontend Developer in Progress
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/KanizSanjila&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/KanizSanjila" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/KanizSanjila" alt="https://github.com/KanizSanjila" /></a> </p>
-
 - 🔭 I'm currently working on **I'm currently working on improving my skills in React and Next.js while building real-world web applications.**
 
 - 🌱 I'm currently learning **I'm currently learning React and Next.js to build modern and responsive web applications.**
