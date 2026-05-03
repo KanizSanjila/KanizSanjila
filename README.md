@@ -22,7 +22,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p style="display: flex; justify-content: flex-start; gap: 10px; align-items: center;">
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
   </a>
@@ -42,6 +43,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   </a>
+
 </p>
 
 
