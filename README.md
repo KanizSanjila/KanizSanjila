@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://facebook.com/profile.php?id=100094195081509" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  <img src="https://www.facebook.com/facebook/" height="40" />
 </a>
 
 </p>
