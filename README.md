@@ -2,18 +2,18 @@
 
 ### Frontend Developer in Progress
 
-- 🔭 I'm currently working on **I'm currently working on improving my skills in React and Next.js while building real-world web applications.**
+-  I'm currently working on **I'm currently working on improving my skills in React and Next.js while building real-world web applications.**
 
-- 🌱 I'm currently learning **I'm currently learning React and Next.js to build modern and responsive web applications.**
+-  I'm currently learning **I'm currently learning React and Next.js to build modern and responsive web applications.**
 
-- 👯 I'm looking to collaborate on **I'm looking to collaborate on frontend and full-stack web development projects using React and Next.js.**
+-  I'm looking to collaborate on **I'm looking to collaborate on frontend and full-stack web development projects using React and Next.js.**
 
-- 🤝 I'm looking for help with **I'm looking for help with improving my full-stack development skills and building better React and Next.js applications.**
+-  I'm looking for help with **I'm looking for help with improving my full-stack development skills and building better React and Next.js applications.**
 
-- 💬 Ask me about **Ask me about React, Next.js, JavaScript, and frontend development.**
+-  Ask me about **Ask me about React, Next.js, JavaScript, and frontend development.**
 
-- 📫 How to reach me **kanizsm13@gmail.com**
-- 📍 Location: Digholia,khulna,Bangladesh
+-  How to reach me **kanizsm13@gmail.com**
+-  Location: Digholia,khulna,Bangladesh
 
 
 <h3 align="left">Connect with me:</h3>
